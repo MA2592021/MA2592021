@@ -38,14 +38,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuetify.svg" alt="vuetify" width="40" height="40"/>
+    <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo-atom.svg" alt="vuetify" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <div style="background-color: white; display: inline-block; padding: 5px; border-radius: 5px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  </div>
+</a>
 </p>
 <br>
 <p align="center">
