@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo-atom.svg" alt="vuetify" width="40" height="40"/>
+    <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" alt="vuetify" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
